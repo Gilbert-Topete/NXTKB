@@ -1,0 +1,18 @@
+Here's a knowledgebase article based on the provided reply chain:
+
+**Title:** Zebra ZT411 Printer: Default Admin Password and Renaming Procedure
+
+**Overview:** This article describes the default admin password and renaming procedure for a Zebra ZT411 printer, specifically for a device with serial number 99J203902829.
+
+**Default Admin Password:** The default admin password for a Zebra ZT411 printer is "1234".
+
+**Renaming the Printer:**
+
+1. To rename the printer, follow these steps:
+	* Select "Home" above the error message
+	* Click on "Print Server Settings"
+	* Then, click on "Print Server"
+	* Enter the admin credentials (username: "admin", password: "1234")
+2. Once logged in as an administrator, you can rename the printer by clicking on the desired new name.
+
+**Important Notes:** If you encounter issues renaming the printer and are prompted for an incorrect password, try selecting "Home" above the error message and following the steps outlined above to access the Print Server Settings and enter the correct admin credentials.

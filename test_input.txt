@@ -1,0 +1,10 @@
+From the following reply chain, can you create a knowledgebase article from this?
+
+Start of reply chain----------
+
+We have a Zebra ZT411 (SN: 99J203902829) that is set up in our HAW warehouse. I was trying to rename the device but it is asking for an admin password. I used the default password(1234) but it is incorrect. Do you guys by any chance have the credentials for this printer. I asked my team and neither of us changed the password before.
+
+So strange because I tried to do the same thing and it said incorrect password
+But then when I selected "Home" above the error > Print Server Settings > Print Server > and put in "admin" "1234" when it prompts me, it lets me in
+
+End of reply chain-----------
