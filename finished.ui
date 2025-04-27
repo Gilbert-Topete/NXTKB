@@ -13,38 +13,11 @@
   <property name="windowTitle">
    <string>Form</string>
   </property>
-  <widget class="QLabel" name="label">
-   <property name="geometry">
-    <rect>
-     <x>160</x>
-     <y>130</y>
-     <width>161</width>
-     <height>40</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <family>Arial</family>
-     <pointsize>20</pointsize>
-    </font>
-   </property>
-   <property name="text">
-    <string>Finished!</string>
-   </property>
-   <property name="alignment">
-    <set>Qt::AlignCenter</set>
-   </property>
-   <property name="Font" stdset="0">
-    <font>
-     <pointsize>12</pointsize>
-    </font>
-   </property>
-  </widget>
   <widget class="QPushButton" name="exit_button">
    <property name="geometry">
     <rect>
-     <x>190</x>
-     <y>270</y>
+     <x>280</x>
+     <y>380</y>
      <width>93</width>
      <height>28</height>
     </rect>
@@ -59,6 +32,44 @@
     <string>Exit</string>
    </property>
   </widget>
+  <widget class="QPushButton" name="back_button">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>380</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Arial</family>
+     <pointsize>8</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Back</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>500</width>
+     <height>500</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>C:/Users/gtope/OneDrive - Cal State Fullerton/Year 3/Semester 5 - Fall 2024/CPSC 490/NXTDesk/Visual Assets/UI Pages/Finished Screen.png</pixmap>
+   </property>
+  </widget>
+  <zorder>label_2</zorder>
+  <zorder>exit_button</zorder>
+  <zorder>back_button</zorder>
  </widget>
  <resources/>
  <connections/>
